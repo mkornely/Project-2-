@@ -1,0 +1,12 @@
+Aaron Rodgers, 12, 100.00
+Bill Gates, 1955, 75.50
+Taylor Swift, 22, 88.34
+Lebron James, 23, 91.21
+Will Smith, 1968, 83.00
+Ellen DeGeneres, 1958, 55.80
+Randy Marsh, 1997, 78.23
+Snoop Dogg, 1971, 85.67
+Chuck Norris, 1940, 99.99
+Betty White, 1922, 69.69
+james, , , 1988 , , 2.00
+four eight sixteen
