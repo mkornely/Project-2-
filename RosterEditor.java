@@ -11,7 +11,7 @@ import java.util.NoSuchElementException;
 
 
 // search, adjust grade adjust name and print all
-public class RosterEditer {
+public class RosterEditor {
   RedBlackTree<Student> roster = new RedBlackTree();
 
 
@@ -20,7 +20,7 @@ public class RosterEditer {
    * 
    * @param roster
    */
-  public RosterEditer(RedBlackTree roster) {
+  public RosterEditor(RedBlackTree roster) {
     this.roster = roster;
   }
 
